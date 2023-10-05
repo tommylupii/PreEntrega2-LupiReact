@@ -1,0 +1,27 @@
+/* Cartwidget.css */
+
+/* Custom styles for the cart widget container */
+.cart-widget {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0; /* Custom background color */
+  padding: 10px;
+  border-radius: 5px;
+  /* Add more custom styles here if needed */
+}
+
+/* Custom styles for the cart icon */
+.cart-icon {
+  width: 24px;
+  height: 24px;
+  /* Add more custom styles here if needed */
+}
+
+/* Custom styles for the cart count */
+.cart-count {
+  margin-left: 5px; /* Add some spacing between the icon and count */
+  font-weight: bold;
+  font-size: 18px;
+  color: #333; /* Custom text color */
+  /* Add more custom styles here if needed */
+}

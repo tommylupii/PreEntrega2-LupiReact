@@ -1,0 +1,37 @@
+.item-detail {
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.item-detail-header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.item-detail-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.item-detail-section {
+  margin-top: 20px;
+}
+
+.item-detail-price {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.item-detail-category {
+  font-weight: bold;
+}
+
+.item-detail-description {
+  margin-top: 10px;
+}

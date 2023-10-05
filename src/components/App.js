@@ -1,5 +1,5 @@
 import Navbar from "./NavBar/navbar";
-import ItemListContainer from "./ItemListContainer/ItemListContainer";
+import ItemListContainer from "./ItemListContainer/Itemlistcontainer";
 import ItemDetailContainer from "../ItemDetailContainer/ItemDetailContainer";
 import "bulma/css/bulma.css"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
